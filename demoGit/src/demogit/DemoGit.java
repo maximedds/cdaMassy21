@@ -9,6 +9,7 @@ public class DemoGit {
 
     private String edwar;
     private String Felix;
+    private String Allan;
 
     /**
      * @param args the command line arguments
