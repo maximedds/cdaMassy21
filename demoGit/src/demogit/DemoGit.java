@@ -8,6 +8,7 @@ package demogit;
 public class DemoGit {
 
     private String edwar;
+    private String Felix;
 
     /**
      * @param args the command line arguments
